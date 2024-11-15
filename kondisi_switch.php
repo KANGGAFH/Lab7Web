@@ -20,7 +20,7 @@
             break;
         default:
         echo "Sabtu";
-    ?>
     }
+    ?>
 </body>
 </html>
