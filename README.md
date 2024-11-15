@@ -25,6 +25,12 @@
 9. **perulangan_dowhile.php**
     ![Screenshot_9](https://github.com/user-attachments/assets/ff6faea2-366f-4bbb-ab88-14b5e3825ec1)
 
+**Hasil dari Pertanyaan dan Tugas**
+*tugas.php*<br>
+![Screenshot_10](https://github.com/user-attachments/assets/7716b40d-3b63-4ee5-8aaf-f0986cf68ce9)<br>
+![Screenshot_11](https://github.com/user-attachments/assets/c2ce5bb7-7239-4a13-9bd4-db7df0d86c0e)
+
+
     
 
 
