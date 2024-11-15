@@ -18,6 +18,16 @@
    ![Screenshot_5](https://github.com/user-attachments/assets/4c27fff4-83d2-4ede-b405-1ddd18a52ed9)
 6. **kondisi_switch.php**
    ![Screenshot_6](https://github.com/user-attachments/assets/a74ae070-b4f2-4611-80e7-d48a5638f526)
+7. **perulangan_for.php**
+   ![Screenshot_7](https://github.com/user-attachments/assets/60d9a0a5-a36f-4929-a613-18d128fc2b51)
+8. **perulangan_while.php**
+   ![Screenshot_8](https://github.com/user-attachments/assets/6d1bfc7d-0ae8-44b5-a988-93c4a9baff3b)
+9. **perulangan_dowhile.php**
+    ![Screenshot_9](https://github.com/user-attachments/assets/ff6faea2-366f-4bbb-ab88-14b5e3825ec1)
+
+    
+
+
 
 
 
