@@ -1,6 +1,3 @@
-Kondisi if di PHP
-berikut kodenya :
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
